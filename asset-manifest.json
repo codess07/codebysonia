@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/codebysonia/static/css/main.68daacaf.css",
+    "main.js": "/codebysonia/static/js/main.bff07706.js",
+    "static/js/453.1d6c8696.chunk.js": "/codebysonia/static/js/453.1d6c8696.chunk.js",
+    "static/media/designbyprateek.png": "/codebysonia/static/media/designbyprateek.b730934d908a20f71a72.png",
+    "static/media/prescinto.png": "/codebysonia/static/media/prescinto.a6300acd63c93b23d024.png",
+    "static/media/mymoneymantra.png": "/codebysonia/static/media/mymoneymantra.e28b9c034dcd36e45f4f.png",
+    "static/media/posable.png": "/codebysonia/static/media/posable.1a402dc3656904b70db2.png",
+    "static/media/modl.png": "/codebysonia/static/media/modl.9f609ea06b36ac6ae29e.png",
+    "static/media/onething.png": "/codebysonia/static/media/onething.5e016033409cedbc95c9.png",
+    "static/media/Mona-Sans.ttf": "/codebysonia/static/media/Mona-Sans.7fae628b329f4d1ccdb8.ttf",
+    "static/media/sonia.png": "/codebysonia/static/media/sonia.d350a4c949da82c27e93.png",
+    "static/media/JetBrainsMono-ExtraLight.ttf": "/codebysonia/static/media/JetBrainsMono-ExtraLight.21ec99e444594b87e692.ttf",
+    "static/media/JetBrainsMono-Light.ttf": "/codebysonia/static/media/JetBrainsMono-Light.edc65c0ab3862494e8fd.ttf",
+    "static/media/JetBrainsMono-Medium.ttf": "/codebysonia/static/media/JetBrainsMono-Medium.2504f21abf8bf1f0613a.ttf",
+    "static/media/JetBrainsMono-Regular.ttf": "/codebysonia/static/media/JetBrainsMono-Regular.3eb7f2ebfc6706e5e704.ttf",
+    "static/media/JetBrainsMono-SemiBold.ttf": "/codebysonia/static/media/JetBrainsMono-SemiBold.589ed75ec9c7d17ff41d.ttf",
+    "static/media/JetBrainsMono-Bold.ttf": "/codebysonia/static/media/JetBrainsMono-Bold.22de78038079f5b8c333.ttf",
+    "static/media/JetBrainsMono-ExtraBold.ttf": "/codebysonia/static/media/JetBrainsMono-ExtraBold.b9d8bb854f117b80133e.ttf",
+    "static/media/Mona-Sans-UltraLightWide.woff": "/codebysonia/static/media/Mona-Sans-UltraLightWide.d10d58c15539bea4e322.woff",
+    "static/media/Mona-Sans-SemiBold.woff": "/codebysonia/static/media/Mona-Sans-SemiBold.392b890bc883d07e1baa.woff",
+    "static/media/Mona-Sans-Bold.woff": "/codebysonia/static/media/Mona-Sans-Bold.2d706985a1ba1f33ca31.woff",
+    "static/media/Mona-Sans-Medium.woff": "/codebysonia/static/media/Mona-Sans-Medium.95538b25661b36bd298e.woff",
+    "static/media/Mona-Sans-Black.woff": "/codebysonia/static/media/Mona-Sans-Black.948b98741c292b5e8253.woff",
+    "static/media/Mona-Sans-UltraLight.woff": "/codebysonia/static/media/Mona-Sans-UltraLight.f6ea16943889028c0c93.woff",
+    "static/media/logo.svg": "/codebysonia/static/media/logo.55906230de01cc4350b801c42d123a3d.svg",
+    "static/media/project-arrow.svg": "/codebysonia/static/media/project-arrow.e9c34a044436eecbb72ecd2f5e21701a.svg",
+    "index.html": "/codebysonia/index.html",
+    "static/media/itmearrow.svg": "/codebysonia/static/media/itmearrow.584cf380134498a7879097a1d063db15.svg",
+    "static/media/arrow.svg": "/codebysonia/static/media/arrow.d8c79bcc6cbba3ce8f2abce9b0235260.svg",
+    "main.68daacaf.css.map": "/codebysonia/static/css/main.68daacaf.css.map",
+    "main.bff07706.js.map": "/codebysonia/static/js/main.bff07706.js.map",
+    "453.1d6c8696.chunk.js.map": "/codebysonia/static/js/453.1d6c8696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68daacaf.css",
+    "static/js/main.bff07706.js"
+  ]
+}
